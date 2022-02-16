@@ -11,30 +11,25 @@
     ],
     "homepage": "https://phinx.org",
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Rob Morgan",
-            "email": "robbym@gmail.com",
-            "homepage": "https://robmorgan.id.au",
-            "role": "Lead Developer"
-        },
-        {
-            "name": "Woody Gilk",
-            "email": "woody.gilk@gmail.com",
-            "homepage": "https://shadowhand.me",
-            "role": "Developer"
-        },
-        {
-            "name": "Richard Quadling",
-            "email": "rquadling@gmail.com",
-            "role": "Developer"
-        },
-        {
-            "name": "CakePHP Community",
-            "role": "Developer",
-            "homepage": "https://github.com/cakephp/phinx/graphs/contributors"
-        }
-    ],
+    "version": "0.9.3",
+    "authors": [{
+        "name": "Rob Morgan",
+        "email": "robbym@gmail.com",
+        "homepage": "https://robmorgan.id.au",
+        "role": "Lead Developer"
+    }, {
+        "name": "Woody Gilk",
+        "email": "woody.gilk@gmail.com",
+        "homepage": "http://shadowhand.me",
+        "role": "Developer"
+    }, {
+        "name": "Richard Quadling",
+        "email": "rquadling@gmail.com",
+        "role": "Developer"
+    }, {
+        "name": "CakePHP Community",
+        "homepage": "https://github.com/cakephp/phinx/graphs/contributors"
+    }],
     "require": {
         "php": ">=7.2",
         "cakephp/database": "^4.0",
